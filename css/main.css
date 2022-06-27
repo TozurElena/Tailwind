@@ -417,6 +417,10 @@ video {
   height: auto;
 }
 
+body {
+  font-family: "Red Hat Display", sans-serif;
+}
+
 *, ::before, ::after {
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
@@ -556,6 +560,15 @@ video {
   --tw-backdrop-opacity:  ;
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
+}
+
+.container {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 20px;
+  padding-left: 20px;
+  max-width: 1080px;
 }
 
 .text-3xl {
