@@ -1,0 +1,24 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "Intro TailwindCss",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./src/input.css -o ./css/main.css --watch",
+    "build": "npx tailwindcss -i ./src/input.css -o ./css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TozurElena/Tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TozurElena/Tailwind/issues"
+  },
+  "homepage": "https://github.com/TozurElena/Tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  }
+}
