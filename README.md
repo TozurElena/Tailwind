@@ -2,7 +2,7 @@
  
 ## Description:
 - Intro TailwindCss
-- Tailwind Lending
+- Tailwind Lending (adaptive, burger menu)
 
 ## Technology used
 
