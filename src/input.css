@@ -50,3 +50,7 @@
   opacity: 0;
   transition: 0.3s all ease;
 }
+.burger.active > .bottom-line {
+  transform: translateY(-10px) rotate(-45deg);
+  transition: 0.3s all ease;
+}

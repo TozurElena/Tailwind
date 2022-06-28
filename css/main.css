@@ -571,8 +571,40 @@ body {
   max-width: 1080px;
 }
 
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.left-6 {
+  left: 1.5rem;
+}
+
+.right-6 {
+  right: 1.5rem;
+}
+
+.top-24 {
+  top: 6rem;
+}
+
+.block {
+  display: block;
+}
+
 .flex {
   display: flex;
+}
+
+.hidden {
+  display: none;
+}
+
+.flex-col {
+  flex-direction: column;
 }
 
 .items-center {
@@ -585,6 +617,16 @@ body {
 
 .gap-12 {
   gap: 3rem;
+}
+
+.bg-lightred {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 13 56 / var(--tw-bg-opacity));
+}
+
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .pt-\[26px\] {
@@ -603,6 +645,11 @@ body {
 .text-lightblack {
   --tw-text-opacity: 1;
   color: rgb(77 66 68 / var(--tw-text-opacity));
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .transition-colors {
@@ -658,6 +705,11 @@ body {
   transition: 0.3s all ease;
 }
 
+.burger.active > .bottom-line {
+  transform: translateY(-10px) rotate(-45deg);
+  transition: 0.3s all ease;
+}
+
 .hover\:text-darked:hover {
   --tw-text-opacity: 1;
   color: rgb(215 0 38 / var(--tw-text-opacity));
@@ -671,6 +723,10 @@ body {
 }
 
 @media (max-width: 768px) {
+  .md\:block {
+    display: block;
+  }
+
   .md\:hidden {
     display: none;
   }
