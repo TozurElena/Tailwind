@@ -18,6 +18,9 @@ module.exports = {
         darked: '#D70026',
         lightgray: '#747474',
         darkgray: '#272727'
+      },
+      boxShadow: {
+        'customred': '0px 0px 30px rgba(255, 13, 56, 0.21)'
       }
     },
   },
