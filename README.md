@@ -16,5 +16,9 @@
 - [Tailwindcss](https://tailwindcss.com/)
 
 
+## Figma
+![image](https://user-images.githubusercontent.com/89131447/176122320-6a6335a7-bc8b-4a81-b218-1eb5c1363c03.png)
+
+
 ## Hosting
 
