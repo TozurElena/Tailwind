@@ -6,6 +6,7 @@
 
 ## Technology used
 
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JS](https://img.shields.io/badge/JS-JavaScript-blue?style=for-the-badge&logo=js&logoColor=white) </br>
@@ -16,9 +17,13 @@
 - [Tailwindcss](https://tailwindcss.com/)
 
 
-## Figma
-![image](https://user-images.githubusercontent.com/89131447/176122320-6a6335a7-bc8b-4a81-b218-1eb5c1363c03.png)
+## Result
 
+### Mockup
 
-## Hosting
+<p align="center">
+    <img src="" width="800"/>
+</p>
+
+### Overview
 
