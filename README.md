@@ -22,7 +22,7 @@
 ### Mockup
 
 <p align="center">
-    <img src="" width="800"/>
+    <img src="./img/TailwindLending.png" width="800"/>
 </p>
 
 ### Overview
