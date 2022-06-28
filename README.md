@@ -25,5 +25,5 @@
     <img src="./img/TailwindLending.png" width="800"/>
 </p>
 
-### Overview
+### Hosting
 
