@@ -23,6 +23,8 @@
 
 <p align="center">
     <img src="./img/TailwindLending.png" width="800"/>
+ <img src="./img/TailwindLendingDarkMode.png" width="400"/>
+ <img src="./img/TailwindLendingMobile.png" width="400"/>
 </p>
 
 ### Hosting
