@@ -22,10 +22,12 @@
 ### Mockup
 
  <img src="./img/TailwindLending.png" width="800"/>
-#### Dark mode
+ 
+### Dark mode
 
  <img src="./img/TailwindLendingDarkMode.png" width="800"/>
-#### Mobile
+ 
+### Mobile
 
  <img src="./img/TailwindLendingMobile.png" width="350" height="800"/>
 
