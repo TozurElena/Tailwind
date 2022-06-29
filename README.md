@@ -2,7 +2,7 @@
  
 ## Description:
 - Intro TailwindCss
-- Tailwind Lending (adaptive, burger menu)
+- Tailwind Lending (adaptive, burger menu, DarkMode)
 
 ## Technology used
 
